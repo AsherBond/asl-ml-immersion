@@ -45,3 +45,4 @@ plotly
 scikit-learn
 fsspec
 gcsfs
+nbformat>=4.2.0
